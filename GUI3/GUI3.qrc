@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Resource">
+    <file>Resource/CIG.jpg</file>
+    <file>Resource/play1hot.png</file>
+    <file>Resource/stop1hot.png</file>
+  </qresource>
+</RCC>
